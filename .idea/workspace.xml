@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb373189-31f9-4632-b54a-c4c1ba9f49b7" name="Default" comment="my blog">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fb373189-31f9-4632-b54a-c4c1ba9f49b7" name="Default" comment="my blog" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +24,9 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\larry\Desktop\ctgulirui.github.io\img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\larry\Desktop\ctgulirui.github.io\img" />
     </key>
@@ -44,6 +45,7 @@
       <workItem from="1597839216382" duration="2386000" />
       <workItem from="1597841622780" duration="185000" />
       <workItem from="1597887033659" duration="307000" />
+      <workItem from="1610889664237" duration="320000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1595161827476</created>
@@ -108,7 +110,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597887244574</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="my blog">
+      <created>1610889723226</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1610889723226</updated>
+    </task>
+    <task id="LOCAL-00011" summary="my blog">
+      <created>1610889840691</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1610889840691</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,13 +136,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="my blog" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1597887243981">
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610889694375">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1597887243981" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1597887247526">
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1610889694375" />
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1610889840167">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1597887247526" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1610889840167" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1610889843811">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1610889843811" />
   </component>
 </project>
